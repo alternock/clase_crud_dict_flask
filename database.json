@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "alias": "fookziman",
+            "email": "foo@foo.com",
+            "name": "foo"
+        },
+        {
+            "alias": "bark",
+            "email": "bar@bar.com",
+            "name": "bar"
+        }
+    ]
+}
